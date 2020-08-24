@@ -1,2 +1,4 @@
-# ios-repo-template
-This is a iOS template repo with the basic setup to build an iOS app. CI integration.
+# Covitba [![Build Status](https://travis-ci.com/Covitba/app-ios.svg?branch=develop)](https://travis-ci.com/Covitba/app-ios)
+
+
+This is the main iOS app of Covitba.
