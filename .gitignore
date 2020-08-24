@@ -24,7 +24,6 @@ DerivedData
 # Linters
 compile_commands.json
 *.out
-mobile-cd
 
 # Bundler
 .bundle
