@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		49DA23EF24F35D4400BB6F9B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DA23EE24F35D4400BB6F9B /* AppDelegate.swift */; };
-		49DA23F124F35D4400BB6F9B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DA23F024F35D4400BB6F9B /* SceneDelegate.swift */; };
 		49DA23F324F35D4400BB6F9B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DA23F224F35D4400BB6F9B /* ViewController.swift */; };
 		49DA23F624F35D4400BB6F9B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49DA23F424F35D4400BB6F9B /* Main.storyboard */; };
 		49DA23F824F35D4800BB6F9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49DA23F724F35D4800BB6F9B /* Assets.xcassets */; };
@@ -32,7 +31,6 @@
 		3FF6237D1C633772C66E19FF /* Pods_Covitba.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Covitba.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		49DA23EB24F35D4400BB6F9B /* Covitba.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Covitba.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49DA23EE24F35D4400BB6F9B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		49DA23F024F35D4400BB6F9B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		49DA23F224F35D4400BB6F9B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		49DA23F524F35D4400BB6F9B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		49DA23F724F35D4800BB6F9B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -92,7 +90,6 @@
 			isa = PBXGroup;
 			children = (
 				49DA23EE24F35D4400BB6F9B /* AppDelegate.swift */,
-				49DA23F024F35D4400BB6F9B /* SceneDelegate.swift */,
 				49DA23F224F35D4400BB6F9B /* ViewController.swift */,
 				49DA23F424F35D4400BB6F9B /* Main.storyboard */,
 				49DA23F724F35D4800BB6F9B /* Assets.xcassets */,
@@ -119,7 +116,6 @@
 				71C0DFC8A438E106043E3D7F /* Pods-CovitbaTests.debug.xcconfig */,
 				F21597CFBB5CD84099AF2366 /* Pods-CovitbaTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -284,7 +280,6 @@
 			files = (
 				49DA23F324F35D4400BB6F9B /* ViewController.swift in Sources */,
 				49DA23EF24F35D4400BB6F9B /* AppDelegate.swift in Sources */,
-				49DA23F124F35D4400BB6F9B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
