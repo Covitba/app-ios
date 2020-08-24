@@ -1,6 +1,0 @@
-framework module Pods_Covitba {
-  umbrella header "Pods-Covitba-umbrella.h"
-
-  export *
-  module * { export * }
-}
